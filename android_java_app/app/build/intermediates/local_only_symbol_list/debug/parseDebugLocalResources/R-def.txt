@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+id calcBtn
+id heightCm
+id heightFt
+id heightIn
+id heightUnitGroup
+id resetBtn
+id resultText
+id unitCm
+id unitFtIn
+id unitKg
+id unitLb
+id weightInput
+id weightUnitGroup
+layout activity_main
