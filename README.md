@@ -6,4 +6,4 @@
 
 See each subfolder README for run steps.
  → cd flutter_app
- → cd flutter_app
+ → flutter run
